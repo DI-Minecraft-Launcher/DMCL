@@ -29,3 +29,8 @@ If you want to submit a pull request, there're some requirements:
 |`-Dhmcl.version.override=<version>`|Override the version number.|
 |`-Dhmcl.update_source.override=<url>`|Override the update source.|
 |`-Dhmcl.authlibinjector.location=<path>`|Use specified authlib-injector (instead of downloading one).|
+
+## Copyright
+This Minecraft Launcher is based on HMCL.
+Copyright © 2019-2020 DIstudio
+Copyright © 2019-2020 帝圣君丶
