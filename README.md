@@ -32,5 +32,7 @@ If you want to submit a pull request, there're some requirements:
 
 ## Copyright
 This Minecraft Launcher is based on HMCL.
+
 Copyright © 2019-2020 DIstudio
+
 Copyright © 2019-2020 帝圣君丶
