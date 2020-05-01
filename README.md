@@ -7,7 +7,7 @@ DMCL is a Minecraft launcher which supports Mod management, game customizing, au
 No plugin API is provided.
 
 ## Download
-Download the latest version [from the official website](https://hmcl.huangyuhui.net/download)
+Download the latest version in the Release page.
 
 Note: Github releases are outdated.
 
