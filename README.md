@@ -9,11 +9,8 @@ No plugin API is provided.
 ## Download
 Download the latest version in the Release page.
 
-Note: Github releases are outdated.
-
 ## License
 The software is distributed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) with additional terms.
-
 
 ## Contribution
 
